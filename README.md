@@ -2,7 +2,7 @@
 
 An interactive Streamlit app that compares **classical brute-force search** with **Grover's quantum search algorithm** when looking for a target password in an unordered list. Built with [Qiskit](https://www.ibm.com/quantum/qiskit) for the Quantum Ready program.
 
-**[Live demo](ADD_STREAMLIT_LINK_HERE)** · **[Screenshots](#screenshots)**
+**[Live demo](https://grover-brute-force-search.streamlit.app/)** · **[Screenshots](#screenshots)**
 
 
 ## What it does
